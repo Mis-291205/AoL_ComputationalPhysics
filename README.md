@@ -1,1 +1,5 @@
 # AoL_ComputationalPhysics
+
+Project to find out what the value of each component (especially resistors, capacitors, and inductors) in a laptop charger adapter based on its specifications and prove the effect of changing the value of inductors and capacitors on circuit current and voltage, in this experiment using the example of ASUS TUF A15 FA507RC laptop charger adapter. Knowing and setting the value in each component is important to do in order to ensure that the laptop gets a stable DC current and voltage input and in accordance with the specifications of the laptop and its charger adapter. How to do it by designing a simple RLC Rectifier I/O simulation. Briefly, from the RLC circuit created, it will be simulated on PPE, adjusting the direction and value of the components, until the final result is a graph that shows the current and voltage that is in accordance with the specifications.
+
+AOL_circuit is the electrical circuit used, the PPE simulation folder is the result of the experiment using Python Power Electronics.
